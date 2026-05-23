@@ -1,0 +1,6 @@
+{
+  "name": "UA Bank",
+  "description": "A functional virtual Ukrainian banking terminal with real-time accumulation and card-to-card transfer features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
